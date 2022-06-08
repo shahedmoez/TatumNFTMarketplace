@@ -1,0 +1,15 @@
+{
+    "name": "home Page",
+    "marketplaceNmae":"NFT Market",
+    "discribtion":"NFT Marketplace with Tatum APIs. in this market you can Buy, Sell and create Express NFT, Royalti NFT and deploy your smart contract.",
+    "wellcomeAlert":
+        {
+            "title":"Wellcome to NFT Market with tatum APIs.",
+            "massage":"All transaction requests using KMS method and not using Privet key but we suggested you check all requests of wallet before confirmed it.",
+            "alertMasage":"!this website not final project!",
+            "dontshowMessage":"don't show this message again"
+        }
+}
+    
+
+    

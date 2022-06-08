@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+.containerCard1 {
+  position: relative;
+}
+
+.containerCard1 .card {
+  position: relative;
+  max-width: 320px;
+  height: 450px;
+  background: var(--back-low-dark);
+  border-radius: 20px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.containerCard1 .card:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  clip-path: circle(150px at 80% 20%);
+  transition: 0.5s ease-in-out;
+
+}
+
+.containerCard1 .card:hover:before {
+  clip-path: circle(300px at 80% -20%);
+}
+
+
+.containerCard1 .card .imgBx {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 9000;
+  width: 100%;
+  height: 220px;
+  transition: 0.5s;
+  display: flex;
+  justify-content: center;
+  border-radius: 8px;
+}
+
+.containerCard1 .card:hover .imgBx {
+  top: 3%;
+  transform: translateY(0%);
+
+}
+
+.containerCard1 .card .imgBx img {
+  width: 270px;
+  border-radius: 8px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.containerCard1 .card .contentBx {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  transition: 0.5s;
+  z-index: 10;
+}
+
+.containerCard1 .card:hover .contentBx {
+  height: 210px;
+}
+
+.containerCard1 .card .contentBx h2 {
+  position: relative;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: var(--text-hi-light);
+  margin: 0;
+}
+
+.containerCard1 .card .contentBx .size,
+.containerCard1 .card .contentBx .colorCard1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 20px;
+  transition: 0.5s;
+  opacity: 0;
+  visibility: hidden;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.containerCard1 .card:hover .contentBx .size {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0.5s;
+}
+
+.containerCard1 .card:hover .contentBx .colorCard1 {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0.6s;
+}
+
+.containerCard1 .card .contentBx .size h3,
+.containerCard1 .card .contentBx .colorCard1 h3 {
+  color: var(--text-hi-light);
+  font-weight: 300;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+
+  display: -webkit-box !important;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.containerCard1 .card .contentBx a {
+  display: inline-block;
+  padding: 10px 20px;
+  background: var(--back-hi-ligth);
+  border-radius: 4px;
+  margin-top: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  color:var(--back-low-dark);
+  opacity: 0;
+  transform: translateY(50px);
+  transition: 0.5s;
+  margin-top: 0;
+}
+
+.containerCard1 .card:hover .contentBx a {
+  opacity: 1;
+  transform: translateY(0px);
+  transition-delay: 0.3s;
+
+}
+
+.unit {
+  width: 15px;
+}
+
+.details {
+  color:var(--text-hi-light);
+  padding: 1em 2em 0.5em 2em;
+  line-height: 2;
+  text-align: left;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

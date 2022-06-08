@@ -1,0 +1,959 @@
+{
+    "name": "Collections",
+    "list": [
+        {
+            "id": "1",
+            "name": "NFT Market",
+            "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+            "logoImage": "Images/Collections/logo.gif",
+            "featuredImage": "Images/Collections/featured.jpg",
+            "bannerImage": "Images/Collections/banner.jpg",
+            "details": "Quis magna laborum aute irure incididunt cupidatat fugiat adipisicing. Consequat proident officia proident sint reprehenderit tempor commodo esse non. Aliquip adipisicing commodo in irure in cupidatat culpa enim. Consequat anim tempor elit nostrud ipsum aliqua sunt aliquip culpa ullamco nulla veniam ullamco. Sunt excepteur et fugiat laboris in nulla ipsum labore esse. Eiusmod mollit ullamco non ad aliquip occaecat eu cillum mollit. Lorem duis irure cupidatat esse do elit sunt irure qui elit ipsum ipsum tempor. Nulla tempor qui reprehenderit esse cupidatat qui qui quis aute. Sit labore veniam eu excepteur aliquip consectetur nisi excepteur tempor. Esse incididunt proident ea in commodo fugiat ullamco. Ea excepteur cupidatat nisi dolor anim consequat excepteur Lorem nostrud voluptate cillum. Labore mollit do ut labore fugiat consequat deserunt ex excepteur et occaecat ex pariatur aute.",
+            "careator": "hoshani",
+            "careatorVerify":true,
+            "website":"www.google.com",
+            "verify":true,
+            "floorPrice":"3.1",
+            "volumeTraded":"4.8k",
+            "unit":"Etherium",
+            "owners": [
+                "Hoshani",
+                "Shahed",
+                "mohsen",
+                "hedayat"
+            ],
+            "listNFTs": [
+                {
+                    "idnft": "1",
+                    "name": "Hoshani",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft1.png",
+                    "details": "Lorem excepteur officia aliqua magna ullamco esse reprehenderit culpa veniam consequat. Sunt non laborum mollit culpa in. Ullamco cupidatat cillum minim ipsum aliqua culpa consectetur pariatur tempor veniam velit est. Dolor et excepteur dolore id ipsum mollit in nostrud magna sit non.",
+                    "price": "1ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Hoshani",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "2",
+                    "name": "Barekati",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft2.png",
+                    "details": "Enim eu nulla labore Lorem culpa eiusmod ex voluptate. Qui amet sint nostrud fugiat est quis magna dolor sunt fugiat quis adipisicing. Id velit nostrud dolor laboris ex cupidatat. Sint duis nisi do cupidatat nulla ut laboris Lorem enim enim.",
+                    "price": "1ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Barekati",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "3",
+                    "name": "Hedayat",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft3.png",
+                    "details": "Lorem aute est reprehenderit dolor do in exercitation fugiat aute. Sit cupidatat cupidatat tempor qui deserunt duis pariatur laboris aliquip adipisicing occaecat veniam. Reprehenderit dolor tempor reprehenderit ut commodo nulla qui aliqua nisi dolore aliqua ut. Eu Lorem velit elit proident ipsum aliquip ea sunt cupidatat excepteur quis ad nulla aute. Eiusmod esse quis laborum aliquip exercitation esse eiusmod quis elit ad fugiat.",
+                    "price": "2ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Hedayat",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "4",
+                    "name": "Shahed",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft4.png",
+                    "details": "Lorem aute est reprehenderit dolor do in exercitation fugiat aute. Sit cupidatat cupidatat tempor qui deserunt duis pariatur laboris aliquip adipisicing occaecat veniam. Reprehenderit dolor tempor reprehenderit ut commodo nulla qui aliqua nisi dolore aliqua ut. Eu Lorem velit elit proident ipsum aliquip ea sunt cupidatat excepteur quis ad nulla aute. Eiusmod esse quis laborum aliquip exercitation esse eiusmod quis elit ad fugiat.",
+                    "price": "2ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Shahed",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "5",
+                    "name": "Hoshani",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft1.png",
+                    "details": "Lorem excepteur officia aliqua magna ullamco esse reprehenderit culpa veniam consequat. Sunt non laborum mollit culpa in. Ullamco cupidatat cillum minim ipsum aliqua culpa consectetur pariatur tempor veniam velit est. Dolor et excepteur dolore id ipsum mollit in nostrud magna sit non.",
+                    "price": "1ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Hoshani",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "6",
+                    "name": "Barekati",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft2.png",
+                    "details": "Enim eu nulla labore Lorem culpa eiusmod ex voluptate. Qui amet sint nostrud fugiat est quis magna dolor sunt fugiat quis adipisicing. Id velit nostrud dolor laboris ex cupidatat. Sint duis nisi do cupidatat nulla ut laboris Lorem enim enim.",
+                    "price": "1ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Barekati",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "7",
+                    "name": "Hedayat",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft3.png",
+                    "details": "Lorem aute est reprehenderit dolor do in exercitation fugiat aute. Sit cupidatat cupidatat tempor qui deserunt duis pariatur laboris aliquip adipisicing occaecat veniam. Reprehenderit dolor tempor reprehenderit ut commodo nulla qui aliqua nisi dolore aliqua ut. Eu Lorem velit elit proident ipsum aliquip ea sunt cupidatat excepteur quis ad nulla aute. Eiusmod esse quis laborum aliquip exercitation esse eiusmod quis elit ad fugiat.",
+                    "price": "2ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Hedayat",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "8",
+                    "name": "Shahed",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft4.png",
+                    "details": "Lorem aute est reprehenderit dolor do in exercitation fugiat aute. Sit cupidatat cupidatat tempor qui deserunt duis pariatur laboris aliquip adipisicing occaecat veniam. Reprehenderit dolor tempor reprehenderit ut commodo nulla qui aliqua nisi dolore aliqua ut. Eu Lorem velit elit proident ipsum aliquip ea sunt cupidatat excepteur quis ad nulla aute. Eiusmod esse quis laborum aliquip exercitation esse eiusmod quis elit ad fugiat.",
+                    "price": "2ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "shahed",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "9",
+                    "name": "Hoshani",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft1.png",
+                    "details": "Lorem excepteur officia aliqua magna ullamco esse reprehenderit culpa veniam consequat. Sunt non laborum mollit culpa in. Ullamco cupidatat cillum minim ipsum aliqua culpa consectetur pariatur tempor veniam velit est. Dolor et excepteur dolore id ipsum mollit in nostrud magna sit non.",
+                    "price": "1ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Hoshani",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "10",
+                    "name": "Barekati",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft2.png",
+                    "details": "Enim eu nulla labore Lorem culpa eiusmod ex voluptate. Qui amet sint nostrud fugiat est quis magna dolor sunt fugiat quis adipisicing. Id velit nostrud dolor laboris ex cupidatat. Sint duis nisi do cupidatat nulla ut laboris Lorem enim enim.",
+                    "price": "1ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Barekati",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "11",
+                    "name": "Hedayat",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft3.png",
+                    "details": "Lorem aute est reprehenderit dolor do in exercitation fugiat aute. Sit cupidatat cupidatat tempor qui deserunt duis pariatur laboris aliquip adipisicing occaecat veniam. Reprehenderit dolor tempor reprehenderit ut commodo nulla qui aliqua nisi dolore aliqua ut. Eu Lorem velit elit proident ipsum aliquip ea sunt cupidatat excepteur quis ad nulla aute. Eiusmod esse quis laborum aliquip exercitation esse eiusmod quis elit ad fugiat.",
+                    "price": "2ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Hedayat",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "12",
+                    "name": "Shahed",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft4.png",
+                    "details": "Lorem aute est reprehenderit dolor do in exercitation fugiat aute. Sit cupidatat cupidatat tempor qui deserunt duis pariatur laboris aliquip adipisicing occaecat veniam. Reprehenderit dolor tempor reprehenderit ut commodo nulla qui aliqua nisi dolore aliqua ut. Eu Lorem velit elit proident ipsum aliquip ea sunt cupidatat excepteur quis ad nulla aute. Eiusmod esse quis laborum aliquip exercitation esse eiusmod quis elit ad fugiat.",
+                    "price": "2ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "shahed",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "13",
+                    "name": "Hoshani",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft1.png",
+                    "details": "Lorem excepteur officia aliqua magna ullamco esse reprehenderit culpa veniam consequat. Sunt non laborum mollit culpa in. Ullamco cupidatat cillum minim ipsum aliqua culpa consectetur pariatur tempor veniam velit est. Dolor et excepteur dolore id ipsum mollit in nostrud magna sit non.",
+                    "price": "1ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Hoshani",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "14",
+                    "name": "Barekati",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft2.png",
+                    "details": "Enim eu nulla labore Lorem culpa eiusmod ex voluptate. Qui amet sint nostrud fugiat est quis magna dolor sunt fugiat quis adipisicing. Id velit nostrud dolor laboris ex cupidatat. Sint duis nisi do cupidatat nulla ut laboris Lorem enim enim.",
+                    "price": "1ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Barekati",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                },
+                {
+                    "idnft": "15",
+                    "name": "Hedayat",
+                    "collection": "NFT Market",
+                    "address": "xCc1515cd5g5t45hy5j5u5k5iyl15kui1l5u2",
+                    "image": "Images/nftImg/nft3.png",
+                    "details": "Lorem aute est reprehenderit dolor do in exercitation fugiat aute. Sit cupidatat cupidatat tempor qui deserunt duis pariatur laboris aliquip adipisicing occaecat veniam. Reprehenderit dolor tempor reprehenderit ut commodo nulla qui aliqua nisi dolore aliqua ut. Eu Lorem velit elit proident ipsum aliquip ea sunt cupidatat excepteur quis ad nulla aute. Eiusmod esse quis laborum aliquip exercitation esse eiusmod quis elit ad fugiat.",
+                    "price": "2ETH",
+                    "usd": "3300",
+                    "unit": "Etherium",
+                    "owner": "Hedayat",
+                    "blockchain": "Polygon",
+                    "listings": [
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Polygon",
+                            "usd": "3300",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "offers":[
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        },
+                        {
+                            "price": "0.9ETH",
+                            "unit": "Etherium",
+                            "usd": "3300",
+                            "floor": "0.1ETH",
+                            "date": "2021/03/10",
+                            "from": "shahgoosh"
+                        }
+                    ],
+                    "properties":[
+                        {"name":"Property1","value":"value1"},
+                        {"name":"Property2","value":"value2"}
+                    ],
+                    "stats":[
+                        {"name":"stat1","value1":"3","value2":"5"},
+                        {"name":"stat2","value1":"8","value2":"10"}
+                    ],
+                    "Levels":[
+                        {"name":"Level1","value1":"3","value2":"5"},
+                        {"name":"Level2","value1":"8","value2":"10"}
+                    ],
+                    "standard":"ERC-721",
+                    "creatorFees":"5.69%",
+                    "like":"5"
+                }
+            ]
+        }
+    ]
+}

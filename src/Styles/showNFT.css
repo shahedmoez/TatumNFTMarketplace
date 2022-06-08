@@ -1,0 +1,180 @@
+.showNFT_continer{
+    width: 100%;
+    max-width: 1280px;
+    padding: 1.5em;
+    margin: 0 auto;
+}
+.cardNFT{
+    border: 1px var(--borderGray) solid;
+    border-radius: 15px;
+}
+.cardNFT>div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--borderGray);
+    padding: 0.5em;
+}
+.cardNFT span img{
+    width: 15px;
+}
+.mainNft{
+    max-width: 100%;
+}
+.tools{
+    display: flex;
+    align-items: center;
+    border:  1px solid var(--borderGray);
+    border-radius: 8px;
+    width: max-content;
+}
+.tools span{
+    padding: 0.3em 0.5em;
+}
+.tools .icon {
+    font-size: 1.3em;
+    color: var(--textDark);
+}
+.tools span~span{
+    border-left: 1px solid var(--borderGray) ;
+}
+.ovf{
+    color: var(--textDark);
+    font-size: 1.3em;
+    display: flex;
+    justify-items: center;
+    padding: 0.5em 0;
+}
+.headcollect{
+    font-size: 1.3em;
+}
+.sellInfo{
+    color: var(--textDark);
+    border: 1px solid var(--borderGray);
+    border-radius: 10px;
+}
+.sellInfo .icon {
+    font-size: 1.3em;
+}
+.sellInfo div:first-child{
+    border-bottom: 1px solid var(--borderGray);
+}
+.buy{
+    display: flex;
+    align-items: center;
+    font-size: 1.5em;
+    font-family: 'Poppins-semiBold';
+    color: var(--textBlack);
+    padding-bottom: 1em;
+}
+.buy small{
+    color: var(--textDark);
+    font-size: 0.8em;
+}
+.buy img{
+    width: 24px;
+    object-fit: contain;
+
+}
+.price{
+    padding: 1.2em;
+}
+.price p{
+    font-size: 1.2em;
+}
+.tagItem{
+    border: 1px solid var(--borderGray);
+    border-radius: 10px;
+    justify-content: space-between;
+    margin-top: 1em;    
+}
+.tagHead{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1.2em;
+}
+.tagHead h6{
+    font-size: 1.2em;
+    font-family: 'Poppins-SemiBold';
+    margin: 0;
+}
+.tagHead .icon{
+    font-size: 1.7em;
+    margin-right: 0.5em;
+}
+.tagHead .icon.collapsed{
+    transform: rotate(180deg);
+}
+.tagMore{
+    padding: 1.2em;
+    border-top: 1px solid var(--borderGray);
+    display: flex;
+    flex-flow: column;
+}
+
+.chartTime{
+    padding: 1em;
+    border: 1px solid var(--borderGray);
+    border-radius: 8px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: transparent;
+    background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+    background-repeat: no-repeat;
+    background-position-x: 98%;
+    background-position-y: 50%;
+}
+.listTitle{
+ border-bottom: 1px solid var(--borderGray);
+}
+.listTitle span{
+    width: 20%;
+    display: inline-block;
+    padding: 0.2em 1em 0.2em 0;
+}
+.listContent{
+    padding: 0.5em 0 ;
+    margin: 0;
+}
+.listContent li{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0.3em 0;
+}
+.listContent li span{
+    width: 20%;
+}
+.listContent li span img{
+    width: 16px;
+    object-fit: contain;
+    margin-right: 5px;
+}
+#tagMore2 .listContent li span:last-child{
+    display: flex;    
+    flex-direction: row-reverse;
+}
+#tagMore4{
+    max-height: 200px;
+    overflow-y: auto;
+}
+.like{
+    position: relative;
+}
+.like input{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0;
+}
+.like input:checked~i{
+    font-weight: bold;
+}
+.listContent li span{
+    text-align: left;
+    white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}

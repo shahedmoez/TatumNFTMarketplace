@@ -1,0 +1,40 @@
+{
+    "name": "footer",
+    "findUsText":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "location":"9878/25 sec 9 rohini 35",
+    "phoneNumber":"+91-9999878398",
+    "email":" info@marketplace.com",
+    "quickLinks1":[
+        {"name":"Image Rectoucing","url":"/"},
+        {"name":"Clipping Path","url":"/"},
+        {"name":"Hollow Man Montage","url":"/"},
+        {"name":"Ebay & Amazon","url":"/"},
+        {"name":"Hair Masking/Clipping","url":"/"},
+        {"name":"Image Cropping","url":"/"}
+    ],
+    "quickLinks2":[
+        {"name":"Remove Background","url":"/"},
+        {"name":"Logo Design","url":"/"},
+        {"name":"Vectorization","url":"/"},
+        {"name":"Shadows & Mirror Reflection","url":"/"},
+        {"name":"Hair Masking/Clipping","url":"/"},
+        {"name":"Image Cropping","url":"/"}
+    ],
+    "followUs":[
+        {"name":"Lorem Ipsum is simply dummy text of the printing...","url":"https://..../"},
+        {"name":"Lorem Ipsum is simply dummy text of the printing...","url":"https://..../"},
+        {"name":"Lorem Ipsum is simply dummy text of the printing...","url":"https://..../"}
+    ],
+    "copyright":{
+        "text":"Copyright @2022 | Designed With by: ",
+        "designer":"shahedmoez",
+        "url":"https://t.me/shahedmoez"
+    },
+    "facebook":"https://www.facebook.com/shahed.moez",
+    "twitter":"https://twitter.com/shahedmoez",
+    "linkedin":"https://www.linkedin.com/in/shahed-moez-1ba70766/",
+    "instagram":"https://www.instagram.com/shahedmoez/"
+}
+    
+
+    

@@ -1,0 +1,74 @@
+{
+    "name": "testNet",
+    "list": [
+        {
+            "id": "1",
+            "chainDecimalId": "3",
+            "Name": "Etherium",
+            "image": "Images/unitIcon/Etherium.png",
+            "simbol": "ETH",
+            "params": [{
+                "chainName": "Ropsten Test Network",
+                "chainId": "0x3",
+                "rpcUrls": [
+                    "https://ropsten.infura.io/v3/"
+                ],
+                "blockExplorerUrls": [
+                    "https://ropsten.etherscan.io"
+                ]
+            }]
+        },
+        {
+            "id": "2",
+            "chainDecimalId": "80001",
+            "Name": "Polygon",
+            "image": "Images/unitIcon/Polygon.png",
+            "simbol": "MATIC",
+            "params": [{
+                "chainName": "Mumbai TestNet",
+                "chainId": "0x13881",
+                "rpcUrls": [
+                    "https://matic-mumbai.chainstacklabs.com"
+                ],
+                "blockExplorerUrls": [
+                    "https://mumbai.polygonscan.com"
+                ]
+            }]
+        },
+        {
+            "id": "3",
+            "chainDecimalId": "44787",
+            "Name": "Celo",
+            "image": "Images/unitIcon/Celo.svg",
+            "simbol": "CELO",
+            "params": [{
+                "chainName": "Alfajores Testnet",
+                "chainId": "0xaef3",
+                "rpcUrls": [
+                    "https://alfajores-forno.celo-testnet.org"
+                ],
+                "blockExplorerUrls": [
+                    "https://alfajores-blockscout.celo-testnet.org/"
+                ]
+            }]
+        }
+    ],
+    "marketplace":[
+        {
+            "name" : "ETH",
+            "address": "0x492c9ba44212223a6643a264027eaaa94264a201",
+            "marketFee":"0.025"
+        },
+        {
+            "name" : "MATIC",
+            "address":"0xaf0aaa13214efb4fb87a12e039eb313ad6192f4d",
+            "marketFee":"0.025"
+        },
+        {
+            "name" : "CELO",
+            "address":"0x585821b7702876e09f83789451c0c0eec7477bb1",
+            "marketFee":"0.025"
+        }
+    ],
+"API_KEY":"..."
+}

@@ -1,0 +1,74 @@
+{
+    "name": "mainNet",
+    "list": [
+        {
+            "id": "1",
+            "chainDecimalId": "1",
+            "Name": "Etherium",
+            "image": "Images/unitIcon/Etherium.png",
+            "simbol": "ETH",
+            "params": [{
+                "chainName": "Ethereum Mainnet",
+                "chainId": "0x1",
+                "rpcUrls": [
+                    "https://mainnet.infura.io/v3/"
+                ],
+                "blockExplorerUrls": [
+                    "https://etherscan.io"
+                ]
+            }]
+        },
+        {
+            "id": "2",
+            "chainDecimalId": "137",
+            "Name": "Polygon",
+            "image": "Images/unitIcon/Polygon.png",
+            "simbol": "MATIC",
+            "params": [{
+                "chainName": "Polygon Mainnet",
+                "chainId": "0x89",
+                "rpcUrls": [
+                    "https://polygon-rpc.com"
+                ],
+                "blockExplorerUrls": [
+                    "https://polygonscan.com"
+                ]
+            }]
+        },
+        {
+            "id": "3",
+            "chainDecimalId": "42220",
+            "Name": "Celo",
+            "image": "Images/unitIcon/Celo.svg",
+            "simbol": "CELO",
+            "params": [{
+                "chainName": "Celo Mainnet",
+                "chainId": "0xA4EC",
+                "rpcUrls": [
+                    "https://forno.celo.org"
+                ],
+                "blockExplorerUrls": [
+                    "https://explorer.celo.org"
+                ]
+            }]
+        }
+    ],
+    "marketplace":[
+        {
+            "name" : "ETH",
+            "address": "...",
+            "marketFee":"0.025"
+        },
+        {
+            "name" : "MATIC",
+            "address":"...",
+            "marketFee":"0.025"
+        },
+        {
+            "name" : "CELO",
+            "address":"...",
+            "marketFee":"0.025"
+        }
+    ],
+    "API_KEY":"..."
+}

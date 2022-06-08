@@ -1,0 +1,18 @@
+{
+    "name": "Wallet NFTs",
+    "logoImage": "Images/Collections/walletNFTs.gif",
+    "featuredImage": "Images/Collections/walletNFTsFeaturedImage.jpg",
+    "bannerImage": "Images/Collections/walletNFTsBanner.jpg",
+    "details": "this Coloction maked from your Wallet. and your can show all NFTs in favoarit market Place blockchain (ETH,MATIC,CELO) ",
+    "careator": "own",
+    "careatorVerify": true,
+    "website": "",
+    "verify": true,
+    "floorPrice": "",
+    "volumeTraded": "",
+    "unit": "",
+    "owners": [
+        ""
+    ],
+    "listNFTs": []
+}

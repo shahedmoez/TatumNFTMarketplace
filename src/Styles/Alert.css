@@ -1,0 +1,89 @@
+.alertStyle {
+    width: 100%;
+    position: fixed;
+    top: 80px;
+    text-align: center;
+    animation: alert 0.5s ease-in forwards;
+    z-index: 9999999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+}
+
+@keyframes alert {
+    0% {
+        top: 0;
+        opacity: 0;
+    }
+
+    ;
+
+    100% {
+        top: 150px;
+        opacity: 1;
+    }
+
+    ;
+}
+
+.alertModal {
+    width: 100vw;
+    height: 50vh;
+    position: fixed;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    top: 105px;
+    align-items: center;
+    justify-content: center;
+    z-index: 100000;
+}
+.alertModal *{
+    z-index: 100000;
+}
+.alertBody{
+    width: 100%;
+    max-width: 480px;
+    min-height: 150px;
+    border-radius: 12px;
+    border: 1px solid ;
+    padding: 1.2em;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    font-size: 1.2em;
+    background-color: white;
+}
+.alertTitle{
+    text-align: center;
+    border-bottom: 1px solid ;
+    padding-bottom: 0.5em;
+}
+.alertModalMassage{
+    text-align: left;
+    white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.alertModalFooter{
+display: flex;
+ justify-content:center;
+ align-items:center;
+ width:100;
+ padding-top:0.5em;
+ border-top: 1px solid;
+}
+.inProgress{
+ width: 10%;   
+}
+.inProgress img{
+ max-width: 30px;   
+}
+.apiName{
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 50%;
+    text-align: left;
+}
+

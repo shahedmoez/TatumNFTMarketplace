@@ -1,0 +1,149 @@
+{
+    "name": "NFTs",
+    "list": [
+        {
+            "idnft": "1",
+            "name": "Monkey",
+            "collection":"Action",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"16329643000000000",
+            "image": "Images/nftImg/nft1.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"2.1CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "2",
+            "name": "Monkey glass",
+            "collection":"art Collection",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"8221331000000000",
+            "image": "Images/nftImg/nft2.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"2.2CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "3",
+            "name": "Monkey smook",
+            "collection":"art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"16329866000000000",
+            "image": "Images/nftImg/nft3.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"2.3CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "4",
+            "name": "Monkey fittnes",
+            "collection":"art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"9129565000000000",
+            "image": "Images/nftImg/nft4.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"2.4CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "5",
+            "name": "cat sport",
+            "collection":"Action",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"3547122000000000",
+            "image": "Images/nftImg/nft5.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"3.1CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "6",
+            "name": "cat Chewing gum",
+            "collection":"art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"16252342000000000",
+            "image": "Images/nftImg/nft6.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"3.2CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "7",
+            "name": "cat moustache",
+            "collection":"art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"8221923000000000",
+            "image": "Images/nftImg/nft7.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"3.3CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "8",
+            "name": "cat Cigarettes",
+            "collection":"art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"9130077000000000",
+            "image": "Images/nftImg/nft8.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"3.4CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "9",
+            "name": "Painted tiger",
+            "collection":"Action",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"13030088000000000",
+            "image": "Images/nftImg/nft9.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"4.1CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "10",
+            "name": "Painted dog",
+            "collection":"art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"16069470000000000",
+            "image": "Images/nftImg/nft10.jpg",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"4.2CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "11",
+            "name": "Painted girl",
+            "collection":"art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"16064261000000000",
+            "image": "Images/nftImg/nft11.JPG",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"4.3CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        },
+        {
+            "idnft": "12",
+            "name": "Painted girl",
+            "collection":"art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId":"16067416000000000",
+            "image": "Images/nftImg/nft12.JPG",
+            "details":"This NFT for test in testnet Celo image from freePik.com",
+            "price":"4.4CELO",
+            "unit":"CELO",
+            "chain":"CELO"
+        }
+    ]
+}

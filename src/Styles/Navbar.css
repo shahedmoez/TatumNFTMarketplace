@@ -1,0 +1,126 @@
+
+.nav_Custom{
+    background-color: var(--navBackColor);
+    font-size: 1rem;
+    padding: 1rem 0.5rem;
+    z-index: 10000;
+    position: sticky;
+    top: 0px;
+    max-width: 100%;
+}
+.nav_Custom .icon{
+    font-size: 2rem;
+}
+.search_custom{
+border-radius: 10px;
+font-size: 1.1rem;
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color:var(--searchBorder);
+    outline: 0;
+    box-shadow: 0px 0px 8px 0px var(--inputShadow) !important;
+}
+.form_search_custom{
+    width: 50%;
+    margin-right: 0.5rem;
+}
+@media (max-width:780px) {
+    .form_search_custom.out{
+        display: none;
+    }
+    
+}
+.form_search_custom.in{
+    display: none;
+}
+@media (max-width:780px) {
+    .form_search_custom.in{
+        display: block;
+        width: 100%;
+        margin-top: 5px;
+    }
+    
+}
+.navbar-brand {
+    color: var(--textDark) !important;
+    font-family: 'Poppins-Bold';
+    
+}
+.nav-item{
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    font-family: 'Poppins-Bold';
+    color: var(--textDark) !important;
+    position: relative;
+    cursor: pointer;
+}
+.dropdown span.icon::after{
+    content: none;
+}
+.dropdown span.icon~ul.dropdown-menu{
+    left: unset;
+    right: -40px;
+}
+.itemActiv{
+   color:var(--activeLi) !important;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: var(--textDark);
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: var(--hoverLi);
+}
+
+.dropdown-menu {
+    position: absolute !important;
+    top: 100%;
+    left: 0;
+}
+.dropdown-toggle::after{
+    transition: all 0.3s linear;
+}
+.dropdown-toggle.show::after{
+    transform: rotate(180deg);
+}
+@media (max-width:991.5px) {
+    .dis-non-md{
+        display: none;
+    }
+    .accont{
+        order: 0 !important;
+    }
+    
+}
+.navbar-toggler{
+    padding: 0.2rem;
+}
+.navbar-toggler:focus{
+    box-shadow: 0 0 0 0.1rem;
+}
+.accont{
+    display: flex;
+    order: 5;
+}
+.accantIn{
+    display: none;
+}
+@media (max-width:328px) {
+    .accont .nav-item.out{
+        display: none;
+    }
+    .accantIn{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.navbar-brand small{
+    font-size: 0.5em;
+    padding: 0;
+}

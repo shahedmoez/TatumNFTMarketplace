@@ -1,0 +1,57 @@
+{
+    "name": "News",
+    "list": [
+        {
+            "id": 1,
+            "title": "Sunt pariatur laborum veniam mollit ut.",
+            "date":"10 Mars 2022",
+            "image": "Images/News/News1.jpg",
+            "details":"Lorem excepteur officia aliqua magna ullamco esse reprehenderit culpa veniam consequat. Sunt non laborum mollit culpa in. Ullamco cupidatat cillum minim ipsum aliqua culpa consectetur pariatur tempor veniam velit est. Dolor et excepteur dolore id ipsum mollit in nostrud magna sit non." ,
+            "category":"Market News"
+        },
+        {
+            "id": 2,
+            "title": "Exercitation anim nulla magna labore ipsum labore.",
+            "date":"15 May 2022",
+            "image": "Images/News/News2.jpg",
+            "details":"Adipisicing eiusmod enim cillum adipisicing proident dolore ea proident elit elit consectetur. Enim voluptate adipisicing et aliquip occaecat eu ut labore et amet dolor eiusmod reprehenderit. Incididunt qui consectetur enim labore non ut ex cupidatat ut sunt eu. Nisi eiusmod tempor veniam enim eiusmod ipsum amet nulla id ipsum labore laboris sit do. Ad mollit culpa consectetur ut nulla sint laboris laborum sunt pariatur ullamco elit sit. Sit cillum nostrud nulla adipisicing aliqua consequat laboris ex officia velit laboris. Non sunt laboris nostrud duis ea nisi mollit do non in laboris occaecat nostrud et." ,
+            "category":"Market News"
+        },
+        {
+            "id": 3,
+            "title": "Ad anim velit deserunt laborum laborum ad cillum aute est commodo elit cillum.",
+            "date":"15 Jun 2022",
+            "image": "Images/News/News3.jpg",
+            "details":"Sint dolore adipisicing est anim in reprehenderit ullamco duis officia. Laborum labore commodo commodo occaecat officia ad aliqua sit magna. Do cillum exercitation esse eu ea tempor nulla. Cillum magna Lorem non deserunt laborum. Eiusmod minim fugiat enim sit in." ,
+            "category":"Market News"
+        },
+        {
+            "id": 4,
+            "title": "Tempor ea deserunt consequat ullamco fugiat quis tempor reprehenderit occaecat ad aute.",
+            "date":"21 Mars 2022",
+            "image": "Images/News/News4.jpg",
+            "details":"Dolor esse duis exercitation proident ipsum laborum aliquip tempor minim ex adipisicing ipsum. Cillum id velit culpa veniam aliquip ullamco officia amet qui. Sint ad sunt magna minim veniam consequat amet. Sunt culpa cupidatat mollit pariatur ut ad commodo. Ea consequat occaecat est cupidatat ipsum eiusmod id tempor minim nisi nostrud proident. Consectetur occaecat labore elit qui." ,
+            "category":"Market News"
+        },
+        {
+            "id": 5,
+            "title": "Incididunt et eu dolor nostrud Lorem consequat ullamco cupidatat duis cupidatat.",
+            "date":"10 Mars 2022",
+            "image": "Images/News/News5.jpg",
+            "details":"Laborum nisi dolor anim ea pariatur excepteur aliquip. Dolor sunt anim eu quis duis fugiat quis. Aliquip dolore occaecat minim amet. Ullamco voluptate aliqua amet qui velit nulla laborum labore culpa id Lorem eiusmod consequat. Esse quis minim nulla dolor ea consectetur." ,
+            "category":"Market News"
+        },
+        {
+            "id": 6,
+            "title": "Mollit enim in exercitation laborum fugiat ex cillum adipisicing aute.",
+            "date":"20 Mars 2022",
+            "image": "Images/News/News6.jpg",
+            "details":"Id excepteur nulla sint fugiat anim. Irure nostrud Lorem cillum et deserunt dolor. Voluptate nostrud nisi cillum officia ipsum deserunt. Sint id irure commodo adipisicing magna nostrud magna ea consectetur incididunt. Mollit ad in ea anim ullamco quis sit ullamco nisi laborum reprehenderit culpa reprehenderit. Labore dolore est amet voluptate laboris fugiat fugiat laboris magna excepteur." ,
+            "category":"Market News"
+        }
+            
+    ]
+}
+    
+
+    

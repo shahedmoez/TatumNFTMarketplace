@@ -1,0 +1,232 @@
+.wrapper {
+    position: absolute;
+    margin: 0 auto;
+  }
+  
+  .obj {
+    position: absolute;
+    top: 0;
+    left: 0;
+    offset-path: var(--path);
+    animation: move 10s ease-in-out var(--delay)  infinite;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+  }
+  @keyframes move {
+    0% {
+      offset-distance: 0%;
+    }
+    100% {
+      offset-distance: 100%;
+    }
+  }
+  
+  .obj img{
+    width: 100%;
+  }
+ 
+  .logoFix{
+      display: inline-block;
+      max-width: 350px;
+  }
+  
+  .Logo{
+      
+      transform: scale(var(--Scale));
+      transform-origin: top left;
+  }
+  .BarandHeader{
+    font-size: 4.5vw;
+    font-family: 'Poppins-ExtraBold';
+    text-align: justify;
+  }
+  @media (max-width:1199.5px) {
+    .BarandHeader{
+      font-size: 6vw;
+    }
+  }
+  @media (max-width:575.5px) {
+    .BarandHeader{
+      font-size: 12vw;
+      text-align: center;
+    }
+  }
+  .detaleBrand{
+    font-family: 'Poppins-Regular';
+    font-size: 1.7em;
+    text-align: justify;
+  }
+  section{
+    margin-bottom: 2rem;
+  }
+  section h5{
+    font-family: 'Poppins-ExtraBold';
+  }
+  #auctionCard {
+    height: 470px;
+    overflow: hidden;
+  }
+  #MarketNews {
+    height: 420px;
+    overflow: hidden;
+    justify-content: center;
+  }
+  #topCollections {
+    max-height: 150px;
+    overflow: hidden;
+    justify-content: center;
+  }
+  #auctionCard.showMore ,#MarketNews.showMore {
+    animation: maxContent 1s ease-in forwards;
+  }
+  @keyframes maxContent {
+    0%{height: 470px;}
+    80%{height: 940px;}
+    100%{height: max-content;}
+  }
+  #topCollections.showMore{
+    animation: maxContent2 1s ease-in forwards;
+  }
+  @keyframes maxContent2 {
+    0%{max-height: 150px;}
+    80%{max-height: 300px;}
+    100%{max-height: max-content;}
+  }
+.showBtn{
+    color: var(--textBtn);
+  }
+.showBtn::after {
+    display: inline-block;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+    transition: all 0.3s linear;
+}
+.showMore .showBtn::after{
+  transform: rotate(180deg);
+}
+.News{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  width: 100%;
+  max-width: 295px;
+  margin: auto;
+  height: 390px;
+  justify-content: space-between;
+  padding: 1em 1em;
+  background-color: var(--cardBack);
+  border-radius: 15px;
+  position: relative;
+  transition-duration: 0.3s;
+}
+.News:hover{
+  transform: translateY(-10px);
+}
+
+.News>div{
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  border-radius: 15px;
+
+}
+.News img{
+  height: 100%;
+  border-radius: 15px;
+}
+.News h1{
+  font-family:'Poppins' ;
+  font-size: 1.5em;
+  padding: 1rem;
+  color: #fff;
+}
+.News button {
+  padding: 0.5rem;
+  border-radius: 7px;
+}
+.News button:hover {
+  border: 1px solid var(--textBtn);
+}
+.News button a{
+  color: var(--textBtn);
+}
+.trend{
+  width: 100%;
+  height: 120px;
+  padding: 1rem;
+  display: flex;
+  border: 1px solid var(--cardBack);
+  border-radius: 15px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.trend div:nth-child(1){
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.trend div:nth-child(1) img{
+  height: 100%;
+  border-radius: 50%;
+}
+
+.trend div:nth-child(2){
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  padding: 0.5em;
+  justify-content: center;
+}
+.trend h1{
+  font-family: "Poppins";
+  font-size: 2em;
+  margin: 0;
+}
+.trend button{
+  padding: 0;
+  text-align: left;
+}
+#ModalWelcom{
+  position: fixed;
+  top: -100vh;
+  margin: 0 auto;
+  display: block;
+  animation: welcom 0.5s linear .5s forwards;
+  z-index: 9001;
+}
+@keyframes welcom {
+  0%{ top:-100vh}
+  100%{ top:80px} 
+}
+.wellcomDontShow {
+  width: 100%;
+  border-bottom: 1px solid var(--borderGray);
+  padding: 0.5em 1em;
+  display: flex;
+  align-items: center;
+}
+.wellcomDontShow input{
+  width: 15px !important;
+  height: 15px !important;
+  position: unset !important;
+  opacity: 1 !important;
+  margin-right: 0.5em;
+}
+.update{
+  font-size: 0.8em;
+  font-family: 'mulish';
+}
+
+

@@ -1,0 +1,50 @@
+{
+    "name": "Category",
+    "list": [
+        {
+            "id": "1",
+            "Name": "Art",
+            "image": "/Images/Category/Art.png",
+            "nubmer":"Market News"
+        },
+        {
+            "id": "2",
+            "Name": "Collectibles",
+            "image": "/Images/Category/Collectibles.png",
+            "nubmer":"Market News"
+        },
+        {
+            "id": "3",
+            "Name": "Music",
+            "image": "/Images/Category/Music.png",
+            "nubmer":"Market News"
+        },
+        {
+            "id": "4",
+            "Name": "Photography",
+            "image": "/Images/Category/Photography.png",
+            "nubmer":"Market News"
+        },
+        {
+            "id": "5",
+            "Name": "Sports",
+            "image": "/Images/Category/Sports.png",
+            "nubmer":"Market News"
+        },
+        {
+            "id": "6",
+            "Name": "Trading Cards",
+            "image": "/Images/Category/Trading.png",
+            "nubmer":"Market News"
+        },
+        {
+            "id": "7",
+            "Name": "Utility",
+            "image": "/Images/Category/Utility.png",
+            "nubmer":"Market News"
+        }       
+    ]
+}
+    
+
+            

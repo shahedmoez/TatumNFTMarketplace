@@ -1,0 +1,27 @@
+{
+    "name": "feeCurrency",
+    "list": [
+        {
+            "id": "1",
+            "Name": "Celo",
+            "image": "Images/unitIcon/Celo.svg",
+            "simbol":"CELO"
+        },
+        {
+            "id": "2",
+            "Name": "CUSD",
+            "image": "Images/unitIcon/CUSD.png",
+            "simbol":"CUSD"
+        },
+        {
+            "id": "3",
+            "Name": "CEUR",
+            "image": "Images/unitIcon/CEUR.png",
+            "simbol":"CEUR"
+        }
+               
+    ]
+}
+    
+
+            
