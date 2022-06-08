@@ -1,11 +1,9 @@
 
-<br />
-
 <div align="center">
 
-<a href="https://github.com/othneildrew/Best-README-Template">
+<a href="https://github.com/shahedmoez/TatumNFTMarketplace">
 
-<img src="images/logo.png" alt="Logo" width="80" height="80">
+<img src="public/favicon.png" alt="Logo" width="80" height="80">
 
 </a>
 
@@ -16,24 +14,25 @@
 Create, sell, buy all kind of NFTs and deploy smart contract and other option
 
 <br />
+  </div>
 
-<a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+<!-- <a href="...">View Demo</a> -->
 
 <details>
-
 <summary>Table of Contents</summary>
 <li><a href="#about-the-project">About The Project</a></li>
 <li><a href="#built-with">Built With</a></li>
 <li><a href="#getting-started">Getting Started</a></li>
 <li><a href="#prerequisites">Prerequisites</a></li>
 <li><a href="#installation">Installation</a></li>
-<li><a href="#Pages">Pages</a></li>
+<li><a href="#pages">Pages</a></li>
 <li><a href="#contact">Contact</a></li>
 </details>
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+![screenshot](https://user-images.githubusercontent.com/92023968/172676012-17111bfb-3bd2-4d83-a7f0-e95f890e278b.jpg)
 
 Marketplace NFT help users to create, sell, buy and view non-fungible token (NFT)
 
@@ -73,14 +72,6 @@ for starting this project you need to sign up in [Tatum.io](https://tatum.io/) a
 ### Prerequisites
 you should have installed Node.js
 
-* npm
-
-```sh
-
-npm install npm@latest -g
-
-```
-
 ## Installation
 
 1. Get a free API Key at [https://tatum.io/](https://tatum.io/)
@@ -89,7 +80,7 @@ npm install npm@latest -g
 
 ```sh
 
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/shahedmoez/TatumNFTMarketplace.git
 
 ```
 
@@ -200,7 +191,6 @@ for mainnet in this file:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
 
 ## Pages
 
@@ -240,10 +230,8 @@ for mint all kind of NFTs
 
 ## Contact
 
-shahedmoez - [shahedmoez](https://t.me/shahedmoez)
+shahedmoez - [shahedmoez](shahedmoez@gmail.com)
 
-cuttlas team - [cuttlas](info@cuttlas.app)
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/shahedmoez/TatumNFTMarketplace](https://github.com/shahedmoez/TatumNFTMarketplace)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
