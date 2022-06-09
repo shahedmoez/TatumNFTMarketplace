@@ -12,6 +12,8 @@
 <p align="center">
 
 Create, sell, buy all kind of NFTs and deploy smart contract and other option
+  <br/>
+  ### supported CELO, ETH and MATIC chains 
 
 <br />
   </div>
