@@ -31,7 +31,7 @@ Create, sell, buy all kind of NFTs and deploy smart contract and other option
 <li><a href="#contact">Contact</a></li>
 </details>
 
-## About The Project
+## Demo of Project
 You can see Demo of this project in this link
 <a href="http://shahedmoez.com">shahedmoez NFT Marketplace
 ## About The Project
